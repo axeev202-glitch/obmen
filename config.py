@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 # Ваши данные
-BOT_TOKEN = "8405555671:AAExA31C9BW6zd4QlTCqU_1OEor7khUSfV8"
+BOT_TOKEN = "8364853114:AAGfVhFQjq14TnoGSaMOtW3nErpYrtYzvF0"
 ADMIN_IDS = [1188933834]
 
 # Инициализация
